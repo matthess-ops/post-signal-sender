@@ -1,0 +1,5 @@
+structure
+
+On page load, ipAdress upload or text file upload. The ipAdress and text file content is
+validated. If validation is succesfull, the text data that is in the form of a table is displayed to the user as a table. Each row of the table has 4 radio buttons. Each of the buttons corresponds to a different timeinterval (15,30,60,120) in seconds. The user can 
+then change these radiobuttons to their liking. After pressing the start button, the selected timeinterval for each row is retrieved. Then for each row an thread is spun up, that continually sends the row data as a json to the specified ipAdress after the timeinterval seconds are elapsed. This is continually done, until the user presses the stop or update button. After pressing the stop button all running threads are terminated. After pressing the update button all running threads are terminated, and the row data and timeinterval data is again retrieved. And the new threads are spun up. Besides these three buttons one more button exists. The sendOnce button, this button immediatly sends the first row data as a json to the specified ip adress. This function is usefull in debugging the target app. 

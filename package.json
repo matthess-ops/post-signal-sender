@@ -1,0 +1,19 @@
+{
+  "name": "finalpostsender",
+  "version": "1.0.0",
+  "description": "app that send post requests at user specified intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.26",
+    "jest": "^26.6.3",
+    "parcel-bundler": "^1.12.4",
+    "ts-jest": "^26.5.1",
+    "typescript": "^4.1.5"
+  }
+}

@@ -1,0 +1,17 @@
+Id;clientNr;clientName;buildingNr;buildingName;locationNr;locationName;deviceNr;id;deviceName;id
+12;123;santos;34;Noord;1232;keuken;123;12;val_detectie;12
+13;123;santos;34;Noord;1232;keuken;123;13;val_detectie;13
+14;123;santos;35;Zuid;5333;woonkamer;235;14;vocht_meter;14
+15;123;santos;35;Zuid;1232;keuken;235;15;vocht_meter;15
+16;444;oranje;23;beukenlaan;1232;keuken;123;16;val_detectie;16
+17;444;oranje;24;eikenlaan;5333;woonkamer;534;17;soldeer_bout;17
+18;444;oranje;25;dennelaan;2222;gang;534;18;soldeer_bout;18
+19;444;oranje;26;kastanjelaan;1232;keuken;235;19;vocht_meter;19
+20;444;oranje;26;kastanjelaan;2222;gang;235;20;vocht_meter;20
+21;543;datagene;22;amalialaan;2222;gang;534;21;soldeer_bout;21
+22;543;datagene;22;amalialaan;2222;gang;235;22;vocht_meter;22
+23;543;datagene;23;beatrixlaan;1232;keuken;123;23;val_detectie;23
+24;543;datagene;23;beatrixlaan;2222;gang;123;24;val_detectie;24
+25;543;datagene;88;willemlaan;5333;woonkamer;123;25;val_detectie;25
+26;543;datagene;88;willemlaan;1232;keuken;534;26;soldeer_bout;26
+27;543;datagene;88;willemlaan;5333;woonkamer;534;27;soldeer_bout;27
